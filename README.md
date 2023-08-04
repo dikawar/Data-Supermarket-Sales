@@ -7,6 +7,7 @@ Then im as a data analyst from create a report and data visualization with Excel
 
 ### About Data
 The data original data have 1 sheet with 17 columns :
+
 | Invoice ID |
 | Branch |
 | City |
